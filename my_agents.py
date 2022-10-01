@@ -1,5 +1,4 @@
 import random
-from utils import get_score
 
 last_round_robin = 0
 
